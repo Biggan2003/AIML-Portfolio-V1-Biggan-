@@ -11,7 +11,7 @@
 
 ## 🌟 Live Demo
 
-🔗 **View Portfolio:** [Click Here to Visit Live Site](https://biggan-portfolio.netlify.app)
+🔗 **View Portfolio:** [Click Here to Visit Live Site]([https://biggan-portfolio.netlify.app](https://biggan-aiml-portfolio-v1.netlify.app/))
 
 > *Replace the above link with your actual deployed URL after hosting*
 
