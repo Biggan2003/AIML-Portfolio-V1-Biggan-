@@ -1,4 +1,4 @@
-# 🤖 G. M Biggan — AI/ML Engineer Portfolio
+# 🤖 G. M Biggan — AI/ML Engineer Portfolio 2026
 
 > A modern, interactive, and fully responsive portfolio website showcasing my journey as an AI/ML Engineer, Computer Vision Specialist, and Autonomous AI Agent Builder.
 
